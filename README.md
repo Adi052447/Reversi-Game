@@ -1,1 +1,2 @@
-# Reversi-Game
+# Reversi-Game 
+run Main class
