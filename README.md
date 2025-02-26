@@ -1,2 +1,5 @@
 # Reversi-Game 
-run Main class
+
+Assignment 1
+
+To play run the Main class
